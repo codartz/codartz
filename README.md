@@ -80,8 +80,8 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 <div align="center">
 
-
-<img src="https://media.tenor.com/RCHsVWjMmJwAAAAi/hello-hi.gif" width="120"/><div align="center">
   ./assets/cute-cut-cat.gif
+
+</div>
 
 </div>
