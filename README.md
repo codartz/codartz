@@ -3,8 +3,7 @@
 
 # Olá, me chamo Tais da Silva! ⋅˚₊⭑⊹
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=C084FC&center=true
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=C084FC&center=true&vCenter=true&width=500&vindo(a)+ao+meu+perfil!;✨+CodArtz+✨
 
 </div>
 
