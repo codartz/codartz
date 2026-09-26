@@ -8,6 +8,11 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="60%">
+
 # 💜 Sobre Mim ⋅˚₊⭑⊹
 
 Olá! Meu nome é **Tais Silva**, mas também utilizo o nome **CodArtz ⋅˚₊⭑**.
@@ -16,16 +21,12 @@ Sou estudante do **Programa Jovem Programador (PJP)** no **Senac** e estou desen
 
 Além da programação, tenho grande interesse por áreas criativas como **Design**, **Ilustração Digital**, **UI Design** e **UX Design**, buscando sempre unir criatividade e tecnologia.
 
----
-
 # 💻 Conhecimentos ⋅˚₊⭑⊹
 
 - Python
 - Git
 - GitHub
 - Lógica de Programação
-
----
 
 # 🎨 Áreas de Interesse ⋅˚₊⭑⊹
 
@@ -37,8 +38,6 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 - Ilustração
 - Tecnologia
 
----
-
 # 🌱 Atualmente ⋅˚₊⭑⊹
 
 - Aprimorando meus conhecimentos em Python
@@ -46,6 +45,11 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 - Desenvolvendo projetos acadêmicos
 - Estudando Design de Interfaces
 - Explorando boas práticas de UX Design
+
+</td>
+
+</tr>
+</table>
 
 ---
 
