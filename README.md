@@ -14,9 +14,7 @@
 
 ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600ause=1200&color=C084FC&center=true&vCenter=true&width=450&lines=CodArtz
-</p>
+<img src="https://readme-typing-b.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=300&lines=✨+CodArtz+✨
 
 </div>
 
