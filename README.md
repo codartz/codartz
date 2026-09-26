@@ -63,9 +63,9 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codartzs=true&theme=midnight-purple&hide_border=true
+</p>
 
 </div>
 
