@@ -50,11 +50,12 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 # 🛠 Tecnologias
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons?i=python,git,github,vscode,html,css,windows
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows"/>
 
-</div>
+</p>
+
 
 ---
 
