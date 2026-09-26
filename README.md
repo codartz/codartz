@@ -76,7 +76,7 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 <div align="center">
 
 
-<img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="400"/>
+<img src="https://media.tenor.com/RCHsVWjMmJwAAAAi/hello-hi.gif" width="120"/>
 
 
 </div>
