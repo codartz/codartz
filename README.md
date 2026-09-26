@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Olá, me chamo Tais da Silva! 
+# Olá, me chamo Tais da Silva! ⋅˚₊⭑⊹
 
 
 </div>
@@ -13,7 +13,7 @@
 
 <td width="60%">
 
-# 💜 Sobre Mim ⋅˚₊⭑⊹
+# 💜 Sobre Mim 
 
 Olá! Meu nome é **Tais Silva**, mas também utilizo o nome **CodArtz ⋅˚₊⭑**.
 
@@ -21,14 +21,14 @@ Sou estudante do **Programa Jovem Programador (PJP)** no **Senac** e estou desen
 
 Além da programação, tenho grande interesse por áreas criativas como **Design**, **Ilustração Digital**, **UI Design** e **UX Design**, buscando sempre unir criatividade e tecnologia.
 
-# 💻 Conhecimentos ⋅˚₊⭑⊹
+# 💻 Conhecimentos
 
 - Python
 - Git
 - GitHub
 - Lógica de Programação
 
-# 🎨 Áreas de Interesse ⋅˚₊⭑⊹
+# 🎨 Áreas de Interesse
 
 - Desenvolvimento de Software
 - Inteligência Artificial
@@ -38,7 +38,7 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 - Ilustração
 - Tecnologia
 
-# 🌱 Atualmente ⋅˚₊⭑⊹
+# 🌱 Atualmente
 
 - Aprimorando meus conhecimentos em Python
 - Aprendendo conceitos de Banco de Dados
@@ -53,7 +53,7 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 ---
 
-# 🛠 Tecnologias ⋅˚₊⭑⊹
+# 🛠 Tecnologias
 
 <p align="center">
 
