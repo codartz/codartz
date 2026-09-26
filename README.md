@@ -2,7 +2,9 @@
 
 # 👋 Olá, eu sou a Tais Silva!
 
-<img srcreadme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Estudante+do+Programa+Jovem+Programador;Aprendendo+Python;Apaixonada+por+Tecnologia;Design+e+Ilustração;UI%2FUX+Design;Bem-vindo(a)+ao+meu+perfil!
+## 🎨 CodArtz
+
+*"Transformando ideias em código e criatividade."*
 
 </div>
 
@@ -10,11 +12,11 @@
 
 # 💜 Sobre Mim
 
-Sou estudante do **Programa Jovem Programador (PJP)** no **Senac**.
+Olá! Meu nome é **Tais Silva**, mas também utilizo o nome **CodArtz**.
 
-Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, com foco em programação, desenvolvimento de sistemas e boas práticas de desenvolvimento.
+Sou estudante do **Programa Jovem Programador (PJP)** no **Senac** e estou desenvolvendo meus conhecimentos na área de tecnologia, especialmente em programação e desenvolvimento de sistemas.
 
-Além da programação, também possuo grande interesse por áreas criativas como **Design**, **Ilustração Digital**, **UI Design** e **UX Design**.
+Além da programação, tenho grande interesse por áreas criativas como **Design**, **Ilustração Digital**, **UI Design** e **UX Design**, buscando sempre unir criatividade e tecnologia.
 
 ---
 
@@ -51,11 +53,9 @@ Além da programação, também possuo grande interesse por áreas criativas com
 
 # 🛠 Tecnologias
 
-<div align="center">
-
-https://skillicons.dev/icons?i=python,git,github,vscode,html,css,windows
-
-</div>
+<p align="center">
+  https://skillicons.dev/icons?i=python,git,github,vscode,html,css,windows
+</p>
 
 ---
 
@@ -83,6 +83,8 @@ https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribu
 
 ### 💜 Obrigada pela visita!
 
-*"Sempre aprendendo, criando e evoluindo."*
+**CodArtz ✨**
+
+*Sempre aprendendo, criando e evoluindo.*
 
 </div>
