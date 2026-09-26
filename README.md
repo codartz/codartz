@@ -62,10 +62,9 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 # 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codartzs=true&theme=midnight-purple&hide_border=true
+  <img src=ithub-readme-stats.vercel.app/api?username=codartz&show_icons=true&theme=midnight-purple&hide_border=true
 </p>
 
-</div>
 
 ---
 
