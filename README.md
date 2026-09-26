@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Olá, me chamo Tais da Silva! ⋅˚₊⭑⊹
 
 <img src="https://readme-typing-svg.demolab.com/?font=SuperDario&weight=500&size=24&pause=1000&color=5B2083&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil!;by+CodArtz+" />
@@ -62,9 +61,7 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 </p>
 
-
 ---
-
 
 <div align="center">
 
@@ -74,12 +71,9 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
-<img width="498" height="249" alt="cute-cut-cat" src="https://github.com/user-attachments/assets/b7e540fb-83f1-489c-bd6a-736fe1f37ebf" />
 
 </div>
