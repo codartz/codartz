@@ -9,7 +9,7 @@
 
 # 💜 Sobre Mim ⋅˚₊⭑⊹
 
-Olá! Meu nome é **Tais Silva**, mas também utilizo o nome **CodArtz ⋅˚₊**.
+Olá! Meu nome é **Tais Silva**, mas também utilizo o nome **CodArtz ⋅˚₊⭑**.
 
 Sou estudante do **Programa Jovem Programador (PJP)** no **Senac** e estou desenvolvendo meus conhecimentos na área de tecnologia, especialmente em programação e desenvolvimento de sistemas.
 
