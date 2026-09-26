@@ -99,9 +99,3 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layou
 *"Transformando ideias em código e criatividade."*
 
 </div>
-
-**CodArtz ✨**
-
-*Sempre aprendendo, criando e evoluindo.* ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
-
-</div>
