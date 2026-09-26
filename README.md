@@ -12,7 +12,6 @@
 +------------------------------------------+
 ```
 
-ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
 
 <img src="https://readme-typing-b.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=300&lines=✨+CodArtz+✨
 
@@ -85,11 +84,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layou
 
 <div align="center">
 
-ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
 
 <img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="550"/>
 
-･ﾟ*₊‧⋆✧･ﾟ*₊‧⋆✧･ﾟ*₊‧⋆✧･ﾟ*₊‧⋆✧･ﾟ*₊‧
 
 </div>
 
@@ -101,12 +98,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layou
 
 *"Transformando ideias em código e criatividade."*
 
-ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
-
 </div>
 
 **CodArtz ✨**
 
-*Sempre aprendendo, criando e evoluindo.*
+*Sempre aprendendo, criando e evoluindo.* ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
 
 </div>
