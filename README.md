@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Tais da Silva!
+# Olá, me chamo Tais da Silva!
 
 ## 🎨 CodArtz
 
