@@ -1,10 +1,20 @@
 <div align="center">
 
-# Olá, me chamo Tais da Silva!
+# Tais da Silva
 
-## 🎨 CodArtz
+```txt
++------------------------------------------+
+|    ____          _    _         _        |
+|   / ___|___   __| |  / \   _ __| |_ ____ |
+|  | |   / _ \ / _` | / _ \ | '__| __|_  / |
+|  | |__| (_) | (_| |/ ___ \| |  | |_ / /  |
+|   \____\___/ \__,_/_/   \_\_|   \__/___| |
++------------------------------------------+
+```
 
-*"Transformando ideias em código e criatividade."*
+ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
+
+https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=800&lines=🎨+Design+e+Ilustração;💻+Python;📱+UI+%26+UX+Design;✨+Criatividade+e+Tecnologia;🌱+Sempre+Aprendendo
 
 </div>
 
@@ -12,7 +22,7 @@
 
 # 💜 Sobre Mim
 
-Olá! Meu nome é **Tais da Silva**, mas também utilizo o nome **CodArtz**.
+Olá! Meu nome é **Tais Silva**, mas também utilizo o nome **CodArtz**.
 
 Sou estudante do **Programa Jovem Programador (PJP)** no **Senac** e estou desenvolvendo meus conhecimentos na área de tecnologia, especialmente em programação e desenvolvimento de sistemas.
 
@@ -44,8 +54,8 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 # 🌱 Atualmente
 
 - Aprimorando meus conhecimentos em Python
-- Desenvolvendo projetos acadêmicos
 - Aprendendo conceitos de Banco de Dados
+- Desenvolvendo projetos acadêmicos
 - Estudando Design de Interfaces
 - Explorando boas práticas de UX Design
 
@@ -53,9 +63,11 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 # 🛠 Tecnologias
 
-<p align="center">
-  https://skillicons.dev/icons?i=python,git,github,vscode,html,css,windows
-</p>
+<div align="center">
+
+https://skillicons.dev/icons?i=python,git,github,vscode,html,css,windows
+
+</div>
 
 ---
 
@@ -73,7 +85,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layou
 
 <div align="center">
 
-https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg
+ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
+
+<img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="550"/>
+
+･ﾟ*₊‧⋆✧･ﾟ*₊‧⋆✧･ﾟ*₊‧⋆✧･ﾟ*₊‧⋆✧･ﾟ*₊‧
 
 </div>
 
@@ -81,7 +97,13 @@ https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribu
 
 <div align="center">
 
-### 💜 Obrigada pela visita!
+### 💜 CodArtz
+
+*"Transformando ideias em código e criatividade."*
+
+ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
+
+</div>
 
 **CodArtz ✨**
 
