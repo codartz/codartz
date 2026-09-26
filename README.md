@@ -3,6 +3,8 @@
 
 # Olá, me chamo Tais da Silva! ⋅˚₊⭑⊹
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=C084FC&center=true
 
 </div>
 
