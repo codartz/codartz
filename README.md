@@ -77,9 +77,4 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 
 <img src="https://media.tenor.com/RCHsVWjMmJwAAAAi/hello-hi.gif" width="120"/>
-
-
-</div>
-
-
 ---
