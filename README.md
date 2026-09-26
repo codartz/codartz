@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# ˚⋅ Olá, me chamo Tais da Silva! 
+# Olá, me chamo Tais da Silva! 
 
 
 </div>
