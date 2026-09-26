@@ -69,8 +69,6 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 *"Transformando ideias em código e criatividade."*
 
-</div>
-
 ---
 
 <div align="center">
