@@ -68,7 +68,9 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 </div>
 
+
 ---
+
 
 <div align="center">
 
@@ -77,3 +79,6 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 
 
 </div>
+
+
+---
