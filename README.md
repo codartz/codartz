@@ -1,3 +1,4 @@
+<img width="498" height="249" alt="cute-cut-cat" src="https://github.com/user-attachments/assets/b7e540fb-83f1-489c-bd6a-736fe1f37ebf" />
 <div align="center">
 
 
@@ -81,7 +82,5 @@ Além da programação, tenho grande interesse por áreas criativas como **Desig
 <div align="center">
 
   ./assets/cute-cut-cat.gif
-
-</div>
 
 </div>
