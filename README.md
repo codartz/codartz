@@ -14,7 +14,9 @@
 
 ɞ ⋅˚₊⭑⊹｡ ๋࣭ ⋆⁺
 
-https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=800&lines=🎨+Design+e+Ilustração;💻+Python;📱+UI+%26+UX+Design;✨+Criatividade+e+Tecnologia;🌱+Sempre+Aprendendo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600ause=1200&color=C084FC&center=true&vCenter=true&width=450&lines=CodArtz
+</p>
 
 </div>
 
