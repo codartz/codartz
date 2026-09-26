@@ -13,7 +13,11 @@
 ```
 
 
-<img src="https://readme-typing-b.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=300&lines=✨+CodArtz+✨
+Markdown
+<div align="center">
+ 
+https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=✨+CodArtz+✨
+
 
 </div>
 
