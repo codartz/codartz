@@ -1,94 +1,88 @@
 <div align="center">
 
-#  Olá, eu sou a Letícia de Souza lourenço!
+# 👋 Olá, eu sou a Tais Silva!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F7CFF&center=true&vCenter=true&width=500&lines=Estudante;Apaixonada+por+Tecnologia;Aprendendo+Python;Bem-vindo(a)+ao+meu+perfil!">
+<img srcreadme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Estudante+do+Programa+Jovem+Programador;Aprendendo+Python;Apaixonada+por+Tecnologia;Design+e+Ilustração;UI%2FUX+Design;Bem-vindo(a)+ao+meu+perfil!
 
 </div>
 
 ---
 
-<table>
-<tr>
+# 💜 Sobre Mim
 
-<td width="60%">
+Sou estudante do **Programa Jovem Programador (PJP)** no **Senac**.
 
-##  Sobre mim
+Atualmente estou desenvolvendo meus conhecimentos na área de tecnologia, com foco em programação, desenvolvimento de sistemas e boas práticas de desenvolvimento.
 
- Estudante de **Logica de programção e desenvolvimento de Web com IA**
+Além da programação, também possuo grande interesse por áreas criativas como **Design**, **Ilustração Digital**, **UI Design** e **UX Design**.
 
-💻 Aprendendo:
+---
+
+# 💻 Conhecimentos
 
 - Python
 - Git
 - GitHub
+- Lógica de Programação
 
-🚀 Interesse em
+---
 
+# 🎨 Áreas de Interesse
+
+- Desenvolvimento de Software
 - Inteligência Artificial
-- Desenvolvimento Python
+- UI Design
+- UX Design
+- Design Digital
+- Ilustração
 - Tecnologia
 
-🌱 Sempre aprendendo algo novo.
+---
 
-</td>
+# 🌱 Atualmente
 
-<td align="center">
-
-<img  src="WhatsApp Image 2026-08-21 at 15.55.58.jpeg"/>
-
-</td>
-
-</tr>
-</table>
+- Aprimorando meus conhecimentos em Python
+- Desenvolvendo projetos acadêmicos
+- Aprendendo conceitos de Banco de Dados
+- Estudando Design de Interfaces
+- Explorando boas práticas de UX Design
 
 ---
 
 # 🛠 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows"/>
+https://skillicons.dev/icons?i=python,git,github,vscode,html,css,windows
 
-</p>
-
----
-
-# 🌐 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/letícia-souza-b92268205">
-<img src="https://img.shields.io/badge/LinkedIn-4F7CFF?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://instagram.com/lety._souza">
-<img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="mailto:leticialourenco2308@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-
-
-</p>
+</div>
 
 ---
 
+# 📊 Estatísticas
 
-</p>
+<div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/LETICIA-DE-SOUZA-LOURENCO/LETICIA-DE-SOUZA-LOURENCO/snake-output/snake.svg" alt="Snake animation" />
+https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true
 
-###
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Obrigada pela visita!
+https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg
 
+</div>
 
+---
+
+<div align="center">
+
+### 💜 Obrigada pela visita!
+
+*"Sempre aprendendo, criando e evoluindo."*
 
 </div>
